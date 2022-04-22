@@ -15,6 +15,8 @@
 
 6. No politics
 
-7. If you are permanently banned from the server, you will be removed from the discord server
+7. Please use English in public chat
 
-8. Be respectful to member and staff's decisions
+8. If you are permanently banned from the server, you will be removed from the discord server
+
+9. Be respectful to member and staff's decisions
