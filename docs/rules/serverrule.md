@@ -11,4 +11,6 @@
 
 6. You are only allowed to have one AuthMe account (Will result in ip ban)
 
-7. Respect player and staff's decisions
+7. Please use English in public chat
+
+8. Respect player and staff's decisions
